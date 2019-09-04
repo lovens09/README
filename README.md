@@ -11,14 +11,18 @@ Readme
 ### Description
 Every one has, once, the needed of a public administration in Haiti and knows how difficult it is, firstly to know wich of them offers the service needed, secondly where to find it (annex, address, phone number, e-mail ...)
 ### App Evaluation
-  -**category:** Productivity/References/Social.
--**Mobile:** Website view, uses map, location, camera.
--**Story:** Lot of public administration in Haiti is so far each other that people looses himself by looking for them or for a public service. With this app, user can look for a public administration in haiti by using a area, the name or a service wanted by the user.
-The app show a list of pub adm or user can seek by a key word as a service needed, a director name or a location.
--**Market:** Anyone who need a public administration in Haiti can use this app.Ability to answer any question about what administration offers this or where can I find it? Or what service can I find in public administration.
--**Habit:** User can look for a public administration, post a comment or answer to any question post by another user. Add any public administration that can help them each other on the platform.
--**Scope:** The first version (V1) will allow user to look for the administration by choosen from a list of public administration or seek by using a key-word.
-The V2,user can comment, add a photo or use FAQ.
+- **category:** Educational/Social.
+
+- **Mobile:** This app would be primarily developed for mobile but would perhaps be just as viable on a computer, such as tinder or other similar apps. Functionality wouldn't be limited to mobile devices, however mobile version could potentially have more features.
+
+- **Story:** Lot of public administration in Haiti is so far each other that people looses himself by looking for them or for a public service. With this app, user can look for a public administration in haiti by using a area, find their contacts and his adresses. user can use this app too, to Find a public service or just getting information about a public right. The app show a list of pub adm or user can seek by a key word as a service or paper needed, a director name or a location.this app can be used like a secure and portable case for his frequentle needed documents.
+
+- **Market:** Anyone who need a public administration in Haiti can use this app.
+
+- **Habit:** User can look for a public administration, post a comment or answer to any question post by another user. Add any public administration that can help them each other on the platform.
+
+- **Scope:** First we would start with allow user to find public administration and servibces by choosing from a list or seeking with his own key-word, then perhaps this could evolve into an online full public service provider as well to broaden its usage.
+
 ## Product Spec
 
 ### 1. User Stories (Required and Optional)
